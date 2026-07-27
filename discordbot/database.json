@@ -1,0 +1,36 @@
+{
+  "users": {
+    "853573968476504074": {
+      "discordTag": "0worry",
+      "discordId": "853573968476504074",
+      "webUser": "0worry",
+      "webPass": "root",
+      "hwid": null,
+      "robloxName": null,
+      "robloxId": null,
+      "expiry": 1768953506806,
+      "createdAt": 1768780706806,
+      "logins": 0
+    }
+  },
+  "keys": {
+    "2T1-VZKY-32P5-XRIJ-LSWN": {
+      "days": 1,
+      "used": true,
+      "createdBy": "853573968476504074",
+      "createdAt": 1768780621408,
+      "usedBy": "853573968476504074",
+      "usedAt": 1768780706806
+    },
+    "2T1-W6DG-YYFD-VEAO-1GRH": {
+      "days": 1,
+      "used": true,
+      "createdBy": "853573968476504074",
+      "createdAt": 1768808388684,
+      "usedBy": "853573968476504074",
+      "usedAt": 1768808401403
+    }
+  },
+  "blacklist": [],
+  "resetRequests": []
+}

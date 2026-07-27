@@ -1,0 +1,9 @@
+{
+  "name": "2t1-obfuscator",
+  "version": "1.0.0",
+  "description": "Enterprise AST Obfuscator and Custom VM Compiler for Lua",
+  "main": "engine.js",
+  "dependencies": {
+    "luaparse": "^0.3.1"
+  }
+}
